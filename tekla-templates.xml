@@ -26,8 +26,8 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">template header pageheader row pagefooter</Keywords>
             <Keywords name="Keywords2">name type width maxheight columns gap fillpolicy filldirection fillstartfrom margins gridxspacing gridyspacing version created modified notes height outputpolicy visibility usecolumns rule contenttype sorttype value colors</Keywords>
-            <Keywords name="Keywords3">text lineorarc valuefield symbol</Keywords>
-            <Keywords name="Keywords4">x1 y1 x2 y2 string fontname fontcolor fonttype fontsize fontratio fontslant fontstyle angle justify pen color linetype linewidth bulge location formula maxnumoflines datatype class cacheable formatzeroasempty length decimals sortdirection oncombine unit file symbolid refpoint slant linepen linecolor fillpen fillcolor filltype keepaspect fontlinewidth aligncontenttotop</Keywords>
+            <Keywords name="Keywords3">text lineorarc valuefield symbol rectangle circle</Keywords>
+            <Keywords name="Keywords4">x1 y1 x2 y2 string fontname fontcolor fonttype fontsize fontratio fontslant fontstyle angle justify pen color linetype linewidth bulge location formula maxnumoflines datatype class cacheable formatzeroasempty length decimals sortdirection oncombine unit file symbolid refpoint slant linepen linecolor fillpen fillcolor filltype keepaspect fontlinewidth aligncontenttotop filled radius center</Keywords>
             <Keywords name="Keywords5">=</Keywords>
             <Keywords name="Keywords6">GRAPHICAL; EVEN; HORIZONTAL; TOPLEFT; CENTERED; NONE; FALSE; COMBINE; STRING; TRUE; ASCENDING; DESCENDING; LEFT; RIGHT; DOUBLE; SUM; INTEGER;</Keywords>
             <Keywords name="Keywords7"></Keywords>
