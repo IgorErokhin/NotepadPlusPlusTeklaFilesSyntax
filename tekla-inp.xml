@@ -25,7 +25,7 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close">*/</Keywords>
             <Keywords name="Keywords1">label, option, string, distance, float, no, none, char</Keywords>
-            <Keywords name="Keywords2">part beam column beamortho spiral_beam twinprofile contourplate bentplate foldedplate loftedplate welding bolt singledrawing assemblydrawing gadrawing multidrawing castunitdrawing project phase insituassembly item</Keywords>
+            <Keywords name="Keywords2">part beam column beamortho spiral_beam twinprofile contourplate bentplate foldedplate loftedplate concrete_beam concrete_spiral_beam concrete_column pad_footing strip_footing concrete_panel concrete_slab welding bolt singledrawing assemblydrawing gadrawing multidrawing castunitdrawing project phase insituassembly item</Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4"></Keywords>
             <Keywords name="Keywords5"></Keywords>
