@@ -1,4 +1,4 @@
-# Syntax files used by Tekla Structures for Notepad++
+# Syntax files for Notepad++ used by Tekla Structures tools
 
 The repository contains used-defined language files for Notepad++:
 - tekla-ini.xml - Tekla Structures ini files syntax
